@@ -1,3 +1,3 @@
 # Pizzerie Italiano Website
 
-See gh-pages branch for files
+A Bootstrap prototype; See gh-pages branch for files
