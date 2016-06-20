@@ -1,3 +1,3 @@
 # Pizzerie Italiano Website
 
-A bootstrap prototype
+A Bootstrap prototype
