@@ -1,2 +1,3 @@
-pizzerie-italiano-website
-=========================
+# Pizzerie Italiano Website
+
+A bootstrap prototype
